@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm fl4me100</h1>
-<h3 align="center">I kind like programming, mainly web...</h3>
+<h3 align="center">I kinda like programming, mainly web...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fl4me100&label=Profile%20views&color=0e75b6&style=flat" alt="fl4me100" /> </p>
 
