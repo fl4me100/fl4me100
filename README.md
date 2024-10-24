@@ -11,7 +11,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fl4me100&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt="fl4me100" /></p>
 <br>
-<h2 align="left">Favorite Movie:</h2>
+<h2 align="left">Favourite Movie:</h2>
 <div>
   <h3>Fast and Furious: Tokyo Drift</h3>
   <img align="left" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg/220px-Poster_-_Fast_and_Furious_Tokyo_Drift.jpg"/>
