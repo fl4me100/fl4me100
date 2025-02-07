@@ -17,4 +17,4 @@
   <a href="https://www.youtube.com/watch?v=r_8Rw16uscg"> <img align="left" width="233" height="360" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXpjNglfDa_-nLXV1J1aoosOiypLh92ScbQ&s"/>
   <a href="https://www.youtube.com/watch?v=1jLOOCADTGs"> <img align="left" width="233" height="360" src="https://m.media-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_.jpg"/>
 </div>
-<a href="https://letterboxd.com/_flame_/"> <img align="right" width="40" src="https://play-lh.googleusercontent.com/PFcm5Ne2otuXxkCNgql_XtpHjYrlhIGGQRFaz9XLFg2wikmMP5YCv_OsvFe1PLDAvGg=w600-h300-pc0xffffff-pd"/>
+<a href="https://letterboxd.com/_flame_/"> <img align="left" width="70" border-radius: 25px; src="https://play-lh.googleusercontent.com/PFcm5Ne2otuXxkCNgql_XtpHjYrlhIGGQRFaz9XLFg2wikmMP5YCv_OsvFe1PLDAvGg=w600-h300-pc0xffffff-pd"/>
