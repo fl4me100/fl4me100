@@ -10,7 +10,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fl4me100&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt="fl4me100" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fl4me100&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt="fl4me100" /></p>
 <br>
-<h2 align="left">Favorite Movies:                 <a href="https://letterboxd.com/_flame_/"> <img align="left" width="70" border-radius: 50px; src="https://play-lh.googleusercontent.com/PFcm5Ne2otuXxkCNgql_XtpHjYrlhIGGQRFaz9XLFg2wikmMP5YCv_OsvFe1PLDAvGg=w600-h300-pc0xffffff-pd"/></h2>
+<h2 align="left">Favorite Movies:                 <a href="https://letterboxd.com/_flame_/"> <img align="left" width="70" border-radius: 25px; src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB63UNBdVOM3qd5_AZ6u-BDVPXqTKR18pyeA&s"/></h2>
 <div>
   <a href="https://www.youtube.com/watch?v=p8HQ2JLlc4E"> <img align="left" width="233" height="360" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg/220px-Poster_-_Fast_and_Furious_Tokyo_Drift.jpg"/>
   <a href="https://www.youtube.com/watch?v=KPOuJGkpblk"> <img align="left" width="233" height="360" src="https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/35/91/33/19255605.jpg"/>
