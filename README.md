@@ -11,8 +11,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fl4me100&show_icons=true&layout=compact&hide_border=true&langs_count=7&theme=github_dark&bg_color=#101414" alt="fl4me100" /></p>
 <br>
-<h2 align="left">Favourite Movie:</h2>
+<h2 align="left">Favorite Movies:</h2>
+<a href="https://letterboxd.com/_flame_/"> <img align="right" src="[https://m.media-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB63UNBdVOM3qd5_AZ6u-BDVPXqTKR18pyeA&s)"/>
 <div>
   <h3>Fast and Furious: Tokyo Drift</h3>
   <a href="https://www.youtube.com/watch?v=p8HQ2JLlc4E"> <img align="left" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg/220px-Poster_-_Fast_and_Furious_Tokyo_Drift.jpg"/>
+  <h3>Se7en</h3>
+  <a href="https://www.youtube.com/watch?v=KPOuJGkpblk"> <img align="left" src="https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_.jpg"/>
+  <h3>The Karate Kid</h3>
+  <a href="https://www.youtube.com/watch?v=r_8Rw16uscg"> <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXpjNglfDa_-nLXV1J1aoosOiypLh92ScbQ&s"/>
+  <h3>A Dog's Purpose</h3>
+  <a href="https://www.youtube.com/watch?v=1jLOOCADTGs"> <img align="left" src="https://m.media-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_.jpg"/>
 </div>
