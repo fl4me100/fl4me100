@@ -12,9 +12,9 @@
 <br>
 <h2 align="left">Favorite Movies:                 <a href="https://letterboxd.com/_flame_/"> <img align="left" width="40" border-radius="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB63UNBdVOM3qd5_AZ6u-BDVPXqTKR18pyeA&s"/></h2>
 <div>
-  <a href="https://www.youtube.com/watch?v=p8HQ2JLlc4E"> <img align="left" width="20%" height="35%" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Poster_-_Fast_and_Furious_Tokyo_Drift.jpg/220px-Poster_-_Fast_and_Furious_Tokyo_Drift.jpg"/>
-  <a href="https://www.youtube.com/watch?v=KPOuJGkpblk"> <img align="left" width="20%" height="45%"  src="https://fr.web.img6.acsta.net/c_310_420/medias/nmedia/18/35/91/33/19255605.jpg"/>
-  <a href="https://www.youtube.com/watch?v=r_8Rw16uscg"> <img align="left" width="20%" height="35%"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXpjNglfDa_-nLXV1J1aoosOiypLh92ScbQ&s"/>
-  <a href="https://youtu.be/pDak4qLyF4Q"> <img align="left" width="20%" height="35%"  src="https://a.ltrbxd.com/resized/film-poster/8/1/3/8/4/0/813840-society-of-the-snow-0-1000-0-1500-crop.jpg?v=c75af7d2b8"/>
+  <a href="https://www.youtube.com/watch?v=V1l5dSEVHiM"> <img align="left" width="20%" height="35%" src="https://image.tmdb.org/t/p/w300/9YXBuZ2bz7aqbKxJgBkQQNl9bVS.jpg"/>
+  <a href="https://www.youtube.com/watch?v=znmZoVkCjpI"> <img align="left" width="20%" height="45%"  src="https://image.tmdb.org/t/p/w300/69Sns8WoET6CfaYlIkHbla4l7nC.jpg"/>
+  <a href="https://www.youtube.com/watch?v=vRBsaJPkt2Q"> <img align="left" width="20%" height="35%"  src="https://image.tmdb.org/t/p/w300/qbkAqmmEIZfrCO8ZQAuIuVMlWoF.jpg"/>
+  <a href="https://www.youtube.com/watch?v=bLvqoHBptjg"> <img align="left" width="20%" height="35%"  src="https://image.tmdb.org/t/p/w300/saHP97rTD5ATZuAf0JMs3M9H9xQ.jpg"/>
 </div>
 
