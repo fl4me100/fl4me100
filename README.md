@@ -12,9 +12,9 @@
 <br>
 <h2 align="left">Favorite Movies:                 <a href="https://letterboxd.com/_flame_/"> <img align="left" width="40" border-radius="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB63UNBdVOM3qd5_AZ6u-BDVPXqTKR18pyeA&s"/></h2>
 <div>
-  <a href="https://www.youtube.com/watch?v=V1l5dSEVHiM"> <img align="left" width="20%" height="35%" src="https://image.tmdb.org/t/p/w300/9YXBuZ2bz7aqbKxJgBkQQNl9bVS.jpg"/>
-  <a href="https://www.youtube.com/watch?v=znmZoVkCjpI"> <img align="left" width="20%" height="45%"  src="https://image.tmdb.org/t/p/w300/69Sns8WoET6CfaYlIkHbla4l7nC.jpg"/>
-  <a href="https://www.youtube.com/watch?v=vRBsaJPkt2Q"> <img align="left" width="20%" height="35%"  src="https://image.tmdb.org/t/p/w300/qbkAqmmEIZfrCO8ZQAuIuVMlWoF.jpg"/>
-  <a href="https://www.youtube.com/watch?v=bLvqoHBptjg"> <img align="left" width="20%" height="35%"  src="https://image.tmdb.org/t/p/w300/saHP97rTD5ATZuAf0JMs3M9H9xQ.jpg"/>
+  <a href="https://www.youtube.com/embed/10ynpduiRpM?rel=0&wmode=transparent"> <img align="left" width="20%" height="35%" src="https://a.ltrbxd.com/resized/film-poster/1/1/9/7/8/4/2/1197842-i-swear-0-1000-0-1500-crop.jpg?v=b8f019138e"/>
+  <a href="https://www.youtube.com/watch?v=znmZoVkCjpI"> <img align="left" width="20%" height="45%"  src="https://a.ltrbxd.com/resized/film-poster/5/1/3/4/5/51345-se7en-0-1000-0-1500-crop.jpg?v=76a14ef6b4"/>
+  <a href="https://www.youtube.com/embed/NKYea63tQmI?rel=0&wmode=transparent"> <img align="left" width="20%" height="35%"  src="https://a.ltrbxd.com/resized/film-poster/6/1/1/2/8/8/611288-project-hail-mary-0-1000-0-1500-crop.jpg?v=ac31b6ec03"/>
+  <a href="https://www.youtube.com/embed/Mj9IA9tTfio?rel=0&wmode=transparent"> <img align="left" width="20%" height="35%"  src="https://a.ltrbxd.com/resized/film-poster/2/7/0/4/2704-forrest-gump-0-1000-0-1500-crop.jpg?v=173bc04cf0"/>
 </div>
 
